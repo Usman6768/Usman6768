@@ -25,8 +25,8 @@ A complete blog platform where users can create, read, update, and delete blog p
 A Chat-app named "Study-Buddy" that allow users to create rooms and chat with others in rooms ,it also includes user functionalities and many more things. Built with Django.
 
 ## Technologies I Know
-- **Languages:** Python
-- **Frameworks:** Django
+- **Languages:** Python, Java, Javascript
+- **Frameworks:** Django, Swing
 - **Frontend:** HTML, CSS, Bootstrap
 - **Tools:** Git, GitHub
 
