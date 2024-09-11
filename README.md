@@ -1,40 +1,26 @@
-# Welcome to My GitHub Profile!
+<h1 align="center">Hi 👋, I'm Usman Pervez</h1>
+<h3 align="center">Python Web Developer</h3>
 
-Hi there! I'm Usman, a passionate software engineer and python web developer. Welcome to my GitHub profile where I share my projects and experiments in the world of coding.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=usman6768&label=Profile%20views&color=0e75b6&style=flat" alt="usman6768" /> </p>
 
-## About Me
-I am currently diving deep into full-stack web development, focusing on Django, HTML, CSS, and Bootstrap. I have a keen interest in backend development and am expanding my skills to include JavaScript and React.js soon.
+- 🌱 I’m currently learning **Django, Java**
 
-## Projects
+- 👨‍💻 All of my projects are available at [https://usman6768.github.io/Portfolio/](https://usman6768.github.io/Portfolio/)
 
-Here are some of the projects I've been working on:
+- 📫 How to reach me **usmanpervez.work@gmail.com**
 
-### 1. Portfolio Website
-A personal portfolio website built using Django, HTML, CSS, and Bootstrap. This site showcases my skills, education, and projects.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/usman pervez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman pervez" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/usman_pervez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="usman_pervez" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/usman-src" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="usman-src" height="30" width="40" /></a>
+</p>
 
-### 2. To-Do List
-A simple yet effective To-Do list application to manage tasks, built with Django.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 3. Tweet App
-A web application that allows users to post tweets, similar to Twitter. Built with Django.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usman6768&show_icons=true&locale=en&layout=compact" alt="usman6768" /></p>
 
-### 4. Blog Website
-A complete blog platform where users can create, read, update, and delete blog posts. Built with Django.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usman6768&show_icons=true&locale=en" alt="usman6768" /></p>
 
-### 5. Chat-App
-A Chat-app named "Study-Buddy" that allow users to create rooms and chat with others in rooms ,it also includes user functionalities and many more things. Built with Django.
-
-## Technologies I Know
-- **Languages:** Python, Java, Javascript
-- **Frameworks:** Django, Swing
-- **Frontend:** HTML, CSS, Bootstrap
-- **Tools:** Git, GitHub
-
-## Learning Path
-I am continuously learning and improving. My current focus is on mastering full-stack development.
-
-## Connect with Me
-- LinkedIn: www.linkedin.com/in/usmanpervez1
-- Email: usmanpervez.work@gmail.com
-
-Feel free to explore my repositories and reach out if you have any questions or suggestions. I'm always open to collaborating on exciting projects.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usman6768&" alt="usman6768" /></p>
