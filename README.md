@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usman6768&label=Profile%20views&color=0e75b6&style=flat" alt="usman6768" /> </p>
 
-- 🌱 I’m currently learning **Django, Java**
+- 🌱 I’m currently learning **Django, Java**, **Javascript**
 
 - 👨‍💻 All of my projects are available at [https://usman6768.github.io/Portfolio/](https://usman6768.github.io/Portfolio/)
 
