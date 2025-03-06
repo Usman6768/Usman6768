@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django, Java, React JS**
 
-- 👨‍💻 All of my projects are available at [https://usman6768.github.io/Portfolio/](https://usman6768.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://usman-pervez.netlify.app/](https://usman-pervez.netlify.app/)
 
 - 📫 How to reach me **usmanpervez.work@gmail.com**
 
